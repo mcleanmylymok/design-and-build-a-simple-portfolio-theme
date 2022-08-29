@@ -1,0 +1,7 @@
+:root {
+    --light-color: #F5F5F5;
+    --dark-color: #1E1E1E;
+    --primary-color: #4886bd;
+}
+
+Font Source Sans Pro 400
